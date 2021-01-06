@@ -1,3 +1,152 @@
 body{
     margin: 0px;
+    font-family: 'Arimo', sans-serif;
+  
+
+}
+.navigation{
+    padding: 2%;
+    margin-left: 60%;
+}
+.navigation a{
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+}
+h1{
+    font-size: 50px;
+}
+.half-width{
+    width: 40%;
+    padding: 2%;
+    margin-left: 6%;
+    float: left;
+}
+.half-width p{
+    width: 80%;
+}
+.half-width img{
+    width: 60%;
+   
+}
+.name{
+    color:tomato;
+}
+.hire-button{
+    color: white;
+    padding: 10px 20px;
+    background-image: linear-gradient(45deg, lightSalmon,tomato);
+    border-radius: 10px;
+    text-decoration: none;
+}
+section{
+    height: 500px;
+}
+.mid-level{
+    width: 100%;
+    padding: 2%;
+    margin-left: 6%;
+    float: right;
+}
+.mid-level img{
+    width: 80%;
+}
+.down-button{
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  background-image: linear-gradient(45deg, lightSalmon,tomato);
+  border-radius: 10px;
+}
+
+.LAST{
+    font-size: 30px;
+    text-align: center;
+}
+.last-color{
+    color: lightsalmon;
+}
+.first-width{
+    width: 20%;
+    margin-left: 4%;
+    padding: 4%;
+    float: left;
+}
+.secon-width{
+    width: 20%;
+    margin-left:4%;
+    padding: 4%;
+    float: left;
+}
+.third-width{
+    width: 20%;
+  margin-left: 4%;
+  padding: 4%;
+  float: left;
+}
+.single{
+    box-shadow: 5px 5px 5px ;
+    height: 60%;
+    border-radius: 5px;
+    background-color: white;
+
+}
+
+.last-bannar{
+   
+    width: 100%;
+    padding: 2%;
+    margin-left: 6%;
+    float: left;
+  
+    
+}
+
+.bb{
+    background-image:linear-gradient(rgb(248, 246, 246),rgb(236, 231, 231));
+}
+.last-bannar{
+    height: 100px;
+    width: 100%;
+    margin-left: 3%;
+  padding: 2%;
+    float: left;
+ 
+}
+
+.chat{
+    margin-top: 80px;
+    margin-left: 60%;
+}
+
+
+.chat-button{
+    color: white;
+    padding: 10px 20px;
+    background-image: linear-gradient(45deg, lightSalmon,tomato);
+    border-radius: 10px;
+    text-decoration: none;
+}
+.col{
+color: white;
+}
+.cc{
+  background-color: teal;
+    height: 120px;
+    width: 830px;
+    margin-left: 12%;
+    margin-top: 60px;
+    border-radius: 10px;
+}
+.half-width text h1{
+    color: white;
+}
+.fenished{
+    width: 100%;
+    padding: 5px;
+    margin-top: 80px;
+    text-align: center;
+}
+.imge{
+    padding: 20px;
 }
